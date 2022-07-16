@@ -5,6 +5,7 @@ import java.util.Scanner;
 class Main{
 	public static void main(String[] args) {
 	
+		//Giống các game khi cho chọn nhân vật nữ hay nam gì đó
 		Gendel characters;
 		System.out.println("Choose your characters: ");
 		
